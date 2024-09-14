@@ -1,5 +1,5 @@
 {
-  "name": "format-prototype",
+  "name": "format-pub",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

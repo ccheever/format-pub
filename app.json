@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "format-prototype",
-    "slug": "format-prototype",
+    "name": "format-pub",
+    "slug": "format-pub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
